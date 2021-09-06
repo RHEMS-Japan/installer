@@ -2,7 +2,7 @@
 
 echo "RHEMS escaper!"
 
-curl -OL https://github.com/RHEMS-Japan/installer/raw/main/escaper/main.tar.gz | tar -zxv
+curl https://raw.githubusercontent.com/RHEMS-Japan/installer/main/escaper/main.tar.gz  | tar xvzf -
 cd main
 
 make
