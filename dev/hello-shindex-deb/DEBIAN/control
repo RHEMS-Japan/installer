@@ -1,0 +1,12 @@
+Package: hello-shindex
+Version: 0.01-1ubuntu2
+Architecture: amd64
+Maintainer: Shin Hirasawa <shindex@rhems-japan.co.jp>
+Installed-Size: 4
+Section: devel
+Priority: optional
+Homepage: http://www.example.com/
+Description: example package of myhello
+ Sample Program for deb package
+ .
+ This is a sample program.
